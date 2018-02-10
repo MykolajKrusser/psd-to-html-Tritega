@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "IcoMoon-Free";
+    src: url(IcoMoon-Free.ttf);
+}
+.s2{
+    font-family: "IcoMoon-Free", serif;
+}
+@font-face {
+    font-family: "s1";
+    src: url(s1.otf);
+}
+@font-face {
+    font-family: "s4";
+    src: url(s4.otf);
+}
+.s1{
+    font-family: "s1", serif;
+}
+.s4{
+    font-family: "s4", serif;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(OpenSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(OpenSans-Light.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(OpenSans-Regular.ttf);
+}@font-face {
+    font-family: "Open Sans";
+    src: url(OpenSans-SemiBold.ttf);
+}
